@@ -1,6 +1,0 @@
-pyserial
-pandas
-numpy
-scikit-learn
-joblib
-streamlit
